@@ -4,4 +4,4 @@
 
 [Circle Packing on Babylon.js (Version 0 - Empty Circle) | Babylon.js Playground](https://playground.babylonjs.com/#XFIE7P)
 
-[Circle Packing on Babylon.js (Version 1 - Symbols in Circle) | Babylon.js Playground](https://playground.babylonjs.com/#GS8RZX)
+[Circle Packing on Babylon.js (Version 1 - Symbols in Circle) | Babylon.js Playground](https://playground.babylonjs.com/#GS8RZX#1)
