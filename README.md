@@ -5,3 +5,5 @@
 [Circle Packing on Babylon.js (Version 0 - Empty Circle) | Babylon.js Playground](https://playground.babylonjs.com/#XFIE7P)
 
 [Circle Packing on Babylon.js (Version 1 - Symbols in Circle) | Babylon.js Playground](https://playground.babylonjs.com/#GS8RZX#1)
+
+[Circle Packing on Babylon.js (Version 2 - Symbols in Circle Endless Carpet Version) | Babylon.js Playground](https://playground.babylonjs.com/#JCS2J8)
